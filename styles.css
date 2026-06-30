@@ -6,8 +6,6 @@
   --muted: #64605a;
   --line: #ded7cc;
   --accent: #6b5a35;
-  --notice-bg: #fff4d7;
-  --notice-line: #dfbd61;
 }
 
 * {
@@ -63,16 +61,6 @@ h2 {
   max-width: 720px;
   margin: 18px 0 0;
   color: var(--muted);
-}
-
-.notice {
-  display: inline-block;
-  margin: 20px 0 0;
-  padding: 8px 12px;
-  border: 1px solid var(--notice-line);
-  background: var(--notice-bg);
-  border-radius: 6px;
-  font-size: 0.92rem;
 }
 
 .table {
